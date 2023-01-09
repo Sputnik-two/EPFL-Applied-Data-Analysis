@@ -1,4 +1,4 @@
-__02. Applied Data Analysis__
+## 02. Applied Data Analysis
 
 Working across the entire data analysis pipeline
 
